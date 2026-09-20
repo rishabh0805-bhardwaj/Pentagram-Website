@@ -1,0 +1,27 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Swirling circular rings -->
+  <circle cx="200" cy="180" r="148" stroke="#C7244E" stroke-width="5" stroke-dasharray="880 60" stroke-linecap="round"/>
+  <circle cx="200" cy="180" r="140" stroke="#C7244E" stroke-width="3.5" stroke-dasharray="780 90" stroke-dashoffset="180" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="200" cy="180" r="132" stroke="#C7244E" stroke-width="2" stroke-dasharray="680 120" stroke-dashoffset="360" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Crimson Pentagon -->
+  <path d="M 200 86 L 260 125 L 241 196 L 159 196 L 140 125 Z" fill="#C7244E"/>
+
+  <!-- Negative space cutout: Lamp + Armchair -->
+  <g fill="#FFFFFF">
+    <!-- Lamp -->
+    <path d="M 192 108 L 208 108 L 213 125 L 187 125 Z"/>
+    <rect x="198" y="125" width="4" height="46" rx="2"/>
+    <ellipse cx="200" cy="173" rx="10" ry="3"/>
+
+    <!-- Armchair -->
+    <path d="M 136 125 C 136 118, 157 118, 159 125 L 159 150 C 159 153, 156 155, 150 155 L 136 155 Z"/>
+    <rect x="148" y="138" width="32" height="12" rx="6"/>
+    <path d="M 176 138 C 182 138, 185 143, 185 150 L 185 174 C 185 178, 178 180, 174 178 L 174 152 C 174 143, 176 138, 176 138 Z"/>
+    <rect x="152" y="165" width="5" height="12" rx="1.5"/>
+  </g>
+
+  <!-- Typography matching uploaded logo -->
+  <text x="200" y="270" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#383838" letter-spacing="4">PENTAGRAM</text>
+  <text x="200" y="296" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#6B6565" letter-spacing="5">YOUR HOME EXPERT</text>
+</svg>

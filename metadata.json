@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pentagram: Your Space Expert",
+  "description": "Delhi NCR\u0027s leading interior design, modular kitchen, and full home renovation experts serving Gurgaon, Noida, Greater Noida, Faridabad, and Delhi. Pentagram: Your Home Expert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
